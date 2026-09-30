@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-👉 https://diamond-foxua.github.io/simply-chocolate/
+👉 https://diamond-foxua.github.io/simple-chocolate/
 
 ---
 
